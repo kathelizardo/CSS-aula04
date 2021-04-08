@@ -13,7 +13,7 @@ h2 {
     padding-bottom: 34px;
     
  } 
-p.preparo {font-size: 34px; }
+p.mid {font-size: 34px; }
 
 h3 {color:#FFB300; font-weight: bold; font-size: 34px;
  }
@@ -21,6 +21,6 @@ h4 { font-weight:bold ; font-size: 32px}
 
 ul {font-size: 21px; font-weight: lighter; line-height: 1.61;}
 
-ol {font-weight:lighter; font-size: 21px; line-height: 1.61; }
+ol {font-size: 21px; font-weight: lighter; line-height: 1.61;}
 
 footer {color:#0037B3; font-weight:bold; font-size: 21px;  }
